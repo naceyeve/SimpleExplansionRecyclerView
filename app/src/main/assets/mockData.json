@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "level": 0,
+      "isOpen": false,
+      "obj": "3G",
+      "child": [
+        {
+          "level": 1,
+          "isOpen": false,
+          "obj": "联通3G",
+          "value": []
+        },
+        {
+          "level": 1,
+          "isOpen": false,
+          "obj": "移动3G",
+          "value": []
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "isOpen": false,
+      "obj": "4G",
+      "child": [
+        {
+          "level": 1,
+          "isOpen": false,
+          "obj": "联通4G",
+          "value": []
+        },
+        {
+          "level": 1,
+          "isOpen": false,
+          "obj": "移动4G",
+          "value": []
+        }
+      ]
+    },
+    {
+      "level": 0,
+      "isOpen": false,
+      "obj": "5G",
+      "child": [
+        {
+          "level": 1,
+          "isOpen": false,
+          "obj": "联通5G",
+          "value": []
+        },
+        {
+          "level": 1,
+          "isOpen": false,
+          "obj": "移动5G",
+          "value": []
+        }
+      ]
+    }
+  ]
+}
